@@ -1,1 +1,1 @@
-# epl-table-big6
+# EPL Table for Traditional Big 6
